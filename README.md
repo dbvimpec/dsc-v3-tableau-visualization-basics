@@ -33,7 +33,7 @@ Let's review some of the most important things to remember about dimensions and 
 <div>
     <center>
 <table><tr><td>
-<video controls src = "https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson4/barchart.mov" alt="This is the alt-text for the image." style="width: 700px;"/>
+<video controls src = "https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/5_data_viz/barchart.mov" alt="This is the alt-text for the image." style="width: 700px;"/>
 </td></tr></table>
     </center>
 </div>
@@ -48,7 +48,7 @@ Let's review some of the most important things to remember about dimensions and 
 <div>
     <center>
 <table><tr><td>
-<video controls src = "https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson4/barchart.mov" alt="This is the alt-text for the image." style="width: 700px;"/>
+<video controls src = "https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/5_data_viz/barchart.mov" alt="This is the alt-text for the image." style="width: 700px;"/>
 </td></tr></table>
     </center>
 </div>
@@ -62,7 +62,7 @@ Take a look at the clip below. In the beginning, the Show Me pane in the upper r
 <div>
     <center>
 <table><tr><td>
-<video controls src = "https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson4/barchart.mov" alt="This is the alt-text for the image." style="width: 700px;"/>
+<video controls src = "https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/5_data_viz/barchart.mov" alt="This is the alt-text for the image." style="width: 700px;"/>
 </td></tr></table>
     </center>
 </div>
@@ -74,7 +74,7 @@ If there is a viz that you would prefer to use and it does not appear to be avai
 <div>
     <center>
 <table><tr><td>
-<video controls src = "https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson4/barchart.mov" alt="This is the alt-text for the image." style="width: 700px;"/>
+<video controls src = "https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/5_data_viz/barchart.mov" alt="This is the alt-text for the image." style="width: 700px;"/>
 </td></tr></table>
     </center>
 </div>
@@ -90,7 +90,7 @@ An example from the SuperStore Sales data set is <b>Profit (measure) by Sub-Cate
 <div>
     <center>
 <table><tr><td>
-<video controls src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson4/bar-chart-1.mov" alt="This is the alt-text for the image." style="width: 700px;"/>
+<video controls src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/5_data_viz/bar-chart-1.mov" alt="This is the alt-text for the image." style="width: 700px;"/>
 </td></tr></table>
     </center>
     </div>
@@ -102,7 +102,7 @@ An example from the SuperStore Sales data set is <b>Profit (measure) by Sub-Cate
 <div>
     <center>
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson4/vertical-bar.png" alt="This is the alt-text for the image." style="width: 700px;"/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/5_data_viz/vertical-bar.png" alt="This is the alt-text for the image." style="width: 700px;"/>
 </td></tr></table>
     </center>
     </div>
@@ -114,7 +114,7 @@ An example from the SuperStore Sales data set is <b>Profit (measure) by Sub-Cate
 <div>
     <center>
 <table><tr><td>
-<video controls src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson4/Change-Color.mov" alt="This is the alt-text for the image." style="width: 700px;"/>
+<video controls src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/5_data_viz/Change-Color.mov" alt="This is the alt-text for the image." style="width: 700px;"/>
 </td></tr></table>
     </center>
     </div></li>
@@ -126,7 +126,7 @@ An example from the SuperStore Sales data set is <b>Profit (measure) by Sub-Cate
 <div>
     <center>
 <table><tr><td>
-<video controls src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson4/change-title.mov" alt="This is the alt-text for the image." style="width: 700px;"/>
+<video controls src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/5_data_viz/change-title.mov" alt="This is the alt-text for the image." style="width: 700px;"/>
 </td></tr></table>
     </center>
     </div>
@@ -137,7 +137,7 @@ An example from the SuperStore Sales data set is <b>Profit (measure) by Sub-Cate
 <div>
     <center>
 <table><tr><td>
-<video controls src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson4/add-currency.mov" alt="This is the alt-text for the image." style="width: 700px;"/>
+<video controls src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/5_data_viz/add-currency.mov" alt="This is the alt-text for the image." style="width: 700px;"/>
 </td></tr></table>
     </center>
     </div>
@@ -164,7 +164,7 @@ Add additional dimensions and measures: You can add additional dimensions and me
 <div>
     <center>
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson4/profit-by-sales.png" alt="This is the alt-text for the image." style="width:700px;"/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/5_data_viz/profit-by-sales.png" alt="This is the alt-text for the image." style="width:700px;"/>
 </td></tr></table>
     </center>
 </div>
@@ -177,7 +177,7 @@ Add additional dimensions and measures: You can add additional dimensions and me
 <div>
     <center>
 <table><tr><td>
-<video controls src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson4/add-colors-size.mov" alt="This is the alt-text for the image." style="width: 700px;"/>
+<video controls src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/5_data_viz/add-colors-size.mov" alt="This is the alt-text for the image." style="width: 700px;"/>
 </td></tr></table>
     </center>
     </div>
@@ -191,7 +191,7 @@ Time series plots are a type of line plot because they use a continuous line to 
 <div>
     <center>
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson4/sales-by-year.png" alt="This is the alt-text for the image." style="width:700px;"/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/5_data_viz/sales-by-year.png" alt="This is the alt-text for the image." style="width:700px;"/>
 </td></tr></table>
     </center>
 </div>
@@ -204,7 +204,7 @@ Time series plots are a type of line plot because they use a continuous line to 
 <div>
     <center>
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson4/sales-by-quarter.png" alt="This is the alt-text for the image." style="width:700px;"/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/5_data_viz/sales-by-quarter.png" alt="This is the alt-text for the image." style="width:700px;"/>
 </td></tr></table>
     </center>
 </div>
@@ -224,7 +224,7 @@ In future lessons, we will take a closer look at visual best practices. For now,
 <div>
     <center>
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson4/sales-by-quarter.png" alt="This is the alt-text for the image." style="width:700px;"/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/5_data_viz/sales-by-quarter.png" alt="This is the alt-text for the image." style="width:700px;"/>
 </td></tr></table>
     </center>
 </div>
