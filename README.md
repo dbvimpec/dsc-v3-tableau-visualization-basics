@@ -1,4 +1,4 @@
-# Tableau - Useful Visualizations and the Show Me Pane
+# Tableau - Basic Visualizations and the Show Me Pane
 
 ## Introduction
 Data visualizations are not a “one-size fits all” solution so it is important to select a visualization that works for your data and the story that you want to tell. Tableau can generate a diverse collection of **vizzes** (Tableau's special word for visualizations) that you can customize for your use case. In this lesson, we will discuss **Measures** and **Dimensions** and how you should choose them to build a viz. Then, we discuss the Show Me pane and highlight a few of the most essential visualizations - the bar chart, the regional plot, and the time-series plot.
