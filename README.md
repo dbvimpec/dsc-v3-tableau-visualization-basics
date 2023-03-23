@@ -190,16 +190,6 @@ Using accessible colors is essential for creating inclusive and effective data v
 
 In future lessons, we will take a closer look at visual best practices. For now, you must remember to avoid color palettes that use green and red, as they can be impossible for people with certain kinds of color blindness to see. Instead, you can use orange and blue.
 
-<br>
-<br>
-<div>
-    <center>
-<table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/5_data_viz/sales-by-quarter.png" alt="This is the alt-text for the image." style="width:700px;"/>
-</td></tr></table>
-    </center>
-</div>
-
 
 ## Summary
 In this lab, we identified the measures and dimensions necessary to create bar charts, scatter plots, and line plots. We also discussed how to use the Show Me Pane to build visualizations from our measures and dimensions. In the upcoming lab, you will have an opportunity to build a visualization from start to finish using the SuperStore Sales dataset. During that lab, you will need the skills we practiced here to select the appropriate visualization for your data and use case.
